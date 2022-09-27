@@ -1,0 +1,127 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "pname": "Teddy Bear",
+        "pdescription": "Emporium 2 Feet Soft Teddy Bear Red 60.20 cm ( Red ) - 60.2 cm  (Red)",
+        "price": "6000",
+        "img": "https://rukminim1.flixcart.com/image/832/832/l0y6qa80/stuffed-toy/t/0/x/3-feet-very-cute-long-soft-hugable-teddy-bear-best-for-gift-85cm-original-imagcm97darruepm.jpeg?q=70"
+      },
+      {
+        "id": 2,
+        "pname": "Mickey Mouse",
+        "pdescription": "Minnie Mouse Soft Toy Mouse Stuffed Soft Toy, 60 cm - 60 cm (Red) - 60 cm  (Red)",
+        "price": "2000",
+        "img": "https://rukminim1.flixcart.com/image/416/416/kkoc70w0/stuffed-toy/n/c/g/mickey-mouse-soft-stuffed-toys-30-cm-30-cm-multicolor-30-gi4n-original-imafzynyqdwhur2g.jpeg?q=70"
+      },
+      {
+        "id": 3,
+        "pname": "Puppy Doll",
+        "pdescription": "Cute Sitting Puppy Dog Doll Toy for Kid - 28 cm (Yellow)",
+        "price": "1500",
+        "img": "https://hamleysgumlet.gumlet.io/product/492410011/665/492410011-1.jpeg"
+      },
+      {
+        "id": 4,
+        "pname": "Dressing Table Toy",
+        "pdescription": "A unique, fun pretend play dressing table for children! The toy dressing table includes a mirror and 7 accessories.",
+        "price": "7000",
+        "img": "https://cdn.shopify.com/s/files/1/0300/9029/7437/products/image_eb7622b0-0ac2-40ef-8681-d7e8ae12cfb5_1800x1800.jpg?v=1643996607"
+      }
+    ],
+    "users": [
+      {
+        "username": "Admin",
+        "useremail": "admin@gmail.com",
+        "password": "admin@123",
+        "mobile": "9898989898",
+        "id": 3
+      },
+      {
+        "username": "Bhavana",
+        "useremail": "bhavanasvastrad@gmail.com",
+        "password": "Bhavana1830@",
+        "mobile": "8951897993",
+        "id": 6
+      },
+      {
+        "username": "Bhavana",
+        "useremail": "b@gmail.com",
+        "password": "Bhavana2000@",
+        "mobile": "",
+        "id": 7
+      },
+      {
+        "username": "sahana",
+        "useremail": "sahana@gmail.com",
+        "password": "Sahana11",
+        "mobile": "9164164511",
+        "id": 8
+      },
+      {
+        "username": "Bhavana",
+        "useremail": "b@gmail.com",
+        "password": "Bhavana1830",
+        "mobile": "7145768989",
+        "id": 9
+      },
+      {
+        "username": "Bhavana",
+        "useremail": "b@gmail.com",
+        "password": "Bhavana1830",
+        "mobile": "7145768989",
+        "id": 10
+      }
+    ],
+    "admin": [
+      {
+        "id": 1,
+        "username": "Admin",
+        "useremail": "admin@gmail.com",
+        "password": "admin@123",
+        "mobile": "9898989898"
+      }
+    ],
+    "cart": [
+      {
+        "pname": "Teddy Bear",
+        "pdescription": "Emporium 2 Feet Soft Teddy Bear Red 60.20 cm ( Red ) - 60.2 cm  (Red)",
+        "price": 4999,
+        "img": "https://rukminim1.flixcart.com/image/832/832/l0y6qa80/stuffed-toy/t/0/x/3-feet-very-cute-long-soft-hugable-teddy-bear-best-for-gift-85cm-original-imagcm97darruepm.jpeg?q=70",
+        "quantity": 1,
+        "id": 1
+      },
+      {
+        "pname": "Puppy Doll",
+        "pdescription": "Cute Sitting Puppy Dog Doll Toy for Kid - 28 cm (Yellow)",
+        "price": 2500,
+        "img": "https://hamleysgumlet.gumlet.io/product/492410011/665/492410011-1.jpeg",
+        "quantity": 1,
+        "id": 3
+      },
+      {
+        "pname": "Clapjoy Spell Master",
+        "pdescription": "Spell Learn for Kids Learning Word Game with Flash Cards, Montessori Learning Educational Toy for Kids age 2-6 years",
+        "price": 3999,
+        "img": "https://www.clapjoy.com/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-24-at-9.55.26-AM.jpeg",
+        "quantity": 1,
+        "id": 4
+      },
+      {
+        "pname": "Aeroplane",
+        "pdescription": "Bestoys Airbus A380 Airplane Toy Small Remote Control (Multicolor, Pack of: 1)",
+        "price": "4000",
+        "img": "https://m.media-amazon.com/images/I/71hrCgLi6VL._SL1477_.jpg",
+        "quantity": 1,
+        "id": 5
+      },
+      {
+        "pname": "Teddy Bear",
+        "pdescription": "Emporium 2 Feet Soft Teddy Bear Red 60.20 cm ( Red ) - 60.2 cm  (Red)",
+        "price": 4999,
+        "img": "https://rukminim1.flixcart.com/image/832/832/l0y6qa80/stuffed-toy/t/0/x/3-feet-very-cute-long-soft-hugable-teddy-bear-best-for-gift-85cm-original-imagcm97darruepm.jpeg?q=70",
+        "quantity": 1,
+        "id": 6
+      }
+    ]
+  }
